@@ -3,7 +3,6 @@
 :airplane: 737NG pilot   
 :bike: GL1800 rider  
 :mount_fuji: love traveling and hiking  
-:arrow_right: Learn Python and explore the entire world of IT
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mstr_wayfarer)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jhqjgz9ceV) 
