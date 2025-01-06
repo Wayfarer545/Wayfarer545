@@ -1,6 +1,6 @@
 
 ### :sunglasses: About Me:
-:notebook: Python developer
+:snake: Python developer  
 :airplane: 737NG ex-pilot   
 :bike: GL1800 rider
 
