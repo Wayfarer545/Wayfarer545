@@ -1,8 +1,7 @@
 
 ### :sunglasses: About Me:
-:airplane: 737NG pilot   
-:bike: GL1800 rider  
-:mount_fuji: love traveling and hiking  
+:airplane: 737NG ex-pilot   
+:bike: GL1800 rider
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mstr_wayfarer)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jhqjgz9ceV) 
